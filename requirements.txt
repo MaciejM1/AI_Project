@@ -1,0 +1,9 @@
+pygame
+torch
+torchvision
+numpy
+pandas
+matplotlib
+sklearn
+graphviz
+pydotplus
